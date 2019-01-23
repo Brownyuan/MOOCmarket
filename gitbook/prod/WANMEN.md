@@ -44,7 +44,7 @@ knowledge
 3. [系统性：推出特训班系列课程,让学习者快速搭建学科知识体系大厦, 达到高效入门新领域或进阶深造的目的]()
 
 ### 成本分析
-1. [Maybe 99 employees](https://www.kanzhun.com/pl6403038.html)，average salary is [￥10K/月]()，totally average is ￥990,000/月 
+1. [Maybe 99 employees](https://www.kanzhun.com/pl6403038.html)，average salary is [￥10K/月](https://www.lagou.com/gongsi/j56391.html)，totally average is 99万元/月 
 2. 房租：
 
 	[西安 - 未央区 - 张家堡 - 未央路与凤城七路向西200米明丰国际1幢1单元20层12006室 ](https://www.lagou.com/jobs/5243528.html?source=pl&i=pl-9)， 房租 [￥18035元/月](https://www.haozu.com/bj_xzl_29808/)
@@ -55,5 +55,5 @@ knowledge
 
 	[大连 - 西岗区 - 长江路 - 西岗PE万达大厦 ](https://www.lagou.com/jobs/5316138.html), 房租 [￥3743元/月](https://www.haozu.com/dl_xzl_45852/)
 
-	房租总共 ￥43,778/月
-3. 总共 1.033m/月
+	房租总共 ￥4.38万/月
+3. 总共 103.3万元/月
